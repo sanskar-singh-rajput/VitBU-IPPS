@@ -1,2 +1,3 @@
 # VitBU-IPPS
-dsf
+
+Internet Payment Processing System @ University Projects
