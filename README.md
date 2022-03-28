@@ -1,15 +1,10 @@
 # VitBU-IPPS
 
-Capstone Project - VIT Bhopal University
+Capstone Project - VIT Bhopal University<br />
+Internet Payment Processing System @ University Projects<br />
 
-Internet Payment Processing System @ University Projects
-
-
-Contributors
-
-@sanskar-singh-rajput
-
-@sakthi86
-
-@sharan-bhatia
+Contributors<br />
+@sanskar-singh-rajput<br />
+@sakthi86<br />
+@sharan-bhatia<br />
 
